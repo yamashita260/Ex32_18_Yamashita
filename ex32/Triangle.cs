@@ -11,6 +11,7 @@ namespace Abstract
         readonly public float side_A;
         readonly public float side_B;
         readonly public float side_C;
+
         public Triangle(float A = 0, float B = 0, float C = 0)
         {
             this.side_A = A;
